@@ -2,8 +2,8 @@
 This project can be used for counting ships inside the farm
 
 ## Problem Statement
-> ### Imagine a flock of sheep, one by one moving in and out of a fenced grassland. Now the shepherd wants a device attached to the fence door that keeps track of the number of sheep inside the land.
-> ### So create a Tinkercad simulation of a device that is suitable for this job. 
+>  Imagine a flock of sheep, one by one moving in and out of a fenced grassland. Now the shepherd wants a device attached to the fence door that keeps track of the number of sheep inside the land.
+>  So create a Tinkercad simulation of a device that is suitable for this job. 
 
 ## Solution/Working
 
